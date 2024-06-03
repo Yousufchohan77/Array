@@ -6,6 +6,11 @@ console.log(grosry[1])
 grosry.push('Dal')
 grosry.pop()
 console.log(grosry)
+grosry.unshift('Ghie')
+console.log(grosry)
+grosry.shift()
+console.log(grosry)
+
 
 
 
